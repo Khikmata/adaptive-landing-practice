@@ -1,1 +1,0 @@
-﻿# Adaptive landing using HTML, SASS and some JS
