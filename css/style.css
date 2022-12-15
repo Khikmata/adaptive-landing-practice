@@ -829,6 +829,7 @@ header #menu-toggle:checked + .menu-button-container .menu-button {
       justify-content: space-around;
   text-align: center;
   position: relative;
+  margin-bottom: 60px;
 }
 @media (max-width: 800px) {
   .healthcare__collection {
